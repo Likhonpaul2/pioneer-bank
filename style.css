@@ -1,0 +1,22 @@
+body{
+    padding: 100px;
+    background-color: antiquewhite;
+}
+#transition_area{
+    display: none;
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: rgb(0, 132, 255);
+}
+.balance{
+     background-color: rgb(255, 115, 0);
+}
+.stutus{
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
